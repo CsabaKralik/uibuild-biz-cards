@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "name": "John Frusciante",
+      "restaurant": "Pizza Mama Mia",
+      "address": "145 NW Ham St, Portland",
+      "zipcode": "OR 92450",
+      "country": "United States"
+    },
+    {
+      "id": 1,
+      "name": "Margaret Sliders",
+      "restaurant": "All Steaks",
+      "address": "3598 Newville Ave, Chicago",
+      "zipcode": "CH 16925",
+      "country": "United States"
+    },
+    {
+      "id": 2,
+      "name": "Rita Rita",
+      "restaurant": "Lamp Sauce",
+      "address": "1234 Third St Ste.10, Falling Middles",
+      "zipcode": "MT 23782",
+      "country": "United States"
+    }
+  ]
+}
