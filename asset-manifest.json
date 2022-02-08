@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/uibuild-biz-cards/site-build/src/static/css/main.2c05b215.css",
-    "main.js": "/uibuild-biz-cards/site-build/src/static/js/main.c30933c1.js",
-    "static/js/787.2d123871.chunk.js": "/uibuild-biz-cards/site-build/src/static/js/787.2d123871.chunk.js",
-    "static/media/logo.svg": "/uibuild-biz-cards/site-build/src/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/uibuild-biz-cards/site-build/src/index.html",
-    "main.2c05b215.css.map": "/uibuild-biz-cards/site-build/src/static/css/main.2c05b215.css.map",
-    "main.c30933c1.js.map": "/uibuild-biz-cards/site-build/src/static/js/main.c30933c1.js.map",
-    "787.2d123871.chunk.js.map": "/uibuild-biz-cards/site-build/src/static/js/787.2d123871.chunk.js.map"
+    "main.css": "/uibuild-biz-cards/static/css/main.2c05b215.css",
+    "main.js": "/uibuild-biz-cards/static/js/main.1b53285a.js",
+    "static/js/787.2d123871.chunk.js": "/uibuild-biz-cards/static/js/787.2d123871.chunk.js",
+    "static/media/logo.svg": "/uibuild-biz-cards/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/uibuild-biz-cards/index.html",
+    "main.2c05b215.css.map": "/uibuild-biz-cards/static/css/main.2c05b215.css.map",
+    "main.1b53285a.js.map": "/uibuild-biz-cards/static/js/main.1b53285a.js.map",
+    "787.2d123871.chunk.js.map": "/uibuild-biz-cards/static/js/787.2d123871.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c05b215.css",
-    "static/js/main.c30933c1.js"
+    "static/js/main.1b53285a.js"
   ]
 }
